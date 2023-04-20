@@ -1,1 +1,1 @@
-print("ET0735 - DevOps is DCPE")
+print "HelloWorld"
